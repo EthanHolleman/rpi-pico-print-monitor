@@ -6,7 +6,7 @@ Raspberry Pi Pico W based LED print status indicator.
 This repo contains the code used to control my RPi Pico W based NeoPixel print status indicator. For the full
 details on this project please visit the write up on my website [here]()
 
-![](https://ethanholleman.com/posts/images/pico-print/print.gif)
+![](project-images/print.gif)
 
 ### Credits
 
